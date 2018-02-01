@@ -1,0 +1,8 @@
+/bin/
+/target
+/.meghanada
+/.metadata
+/.classpath
+/.project
+/eclimd.log
+workbench.xmi
